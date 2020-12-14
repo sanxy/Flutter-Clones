@@ -8,6 +8,8 @@
 
 2.  [Flutter Todo App](https://github.com/sanxy/TodoApp)
 
+3.  [Flutter Movie App](https://github.com/sanxy/FlutterMovieApp)
+
 
 ## Getting Started
 
