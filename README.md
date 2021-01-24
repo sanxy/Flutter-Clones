@@ -10,6 +10,8 @@
 
 3.  [Flutter Movie App](https://github.com/sanxy/FlutterMovieApp)
 
+4.  [Flutter IntroSlider](https://github.com/sanxy/FlutterIntroSlider)
+
 
 ## Getting Started
 
