@@ -12,6 +12,9 @@
 
 4.  [Flutter IntroSlider](https://github.com/sanxy/FlutterIntroSlider)
 
+5.  [Flutter Easy Quiz](https://github.com/sanxy/Easy-Quiz)
+
+
 
 ## Getting Started
 
