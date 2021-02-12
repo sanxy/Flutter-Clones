@@ -14,6 +14,8 @@
 
 5.  [Flutter Easy Quiz](https://github.com/sanxy/Easy-Quiz)
 
+6. [Flutter Fake Jsonplaceholder](https://github.com/sanxy/Fake-Jsonplaceholder)
+
 
 
 ## Getting Started
